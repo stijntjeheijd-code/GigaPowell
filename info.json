@@ -1,0 +1,16 @@
+{
+  "name": "RateCut",
+  "symbol": "RC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "RateCut (RC) – fixed/mintable ERC20 on BNB Smart Chain.",
+  "website": "https://jouwsite.xyz",
+  "explorer": "https://bscscan.com/token/<JOUW_ADRES>",
+  "status": "active",
+  "id": "<JOUW_CHECKSUM_ADRES>",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/jouwhandle" },
+    { "name": "telegram", "url": "https://t.me/jouwchannel" },
+    { "name": "github", "url": "https://github.com/jouworg" }
+  ]
+}
